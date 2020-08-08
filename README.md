@@ -1,6 +1,6 @@
 ### Olá, como vai? 👋
 
-## Sou Nanda Oliveira (:)
+## Sou Nanda Oliveira! :smile:
 
 
 - :computer: Aluna back-end da {Reprograma} em parceria com a XP investimentos. 
